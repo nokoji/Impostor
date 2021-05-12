@@ -2,7 +2,7 @@
 {
     internal static class Constants
     {
-        public const int SpawnTimeout = 2500;
-        public const int ConnectionTimeout = 2500;
+        public const int SpawnTimeout = 25000;
+        public const int ConnectionTimeout = 25000;
     }
 }
