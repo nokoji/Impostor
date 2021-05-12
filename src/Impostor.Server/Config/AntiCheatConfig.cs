@@ -4,8 +4,8 @@
     {
         public const string Section = "AntiCheat";
 
-        public bool Enabled { get; set; } = true;
+        public bool Enabled { get; set; } = false;
 
-        public bool BanIpFromGame { get; set; } = true;
+        public bool BanIpFromGame { get; set; } = false;
     }
 }
